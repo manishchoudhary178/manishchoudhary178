@@ -1,4 +1,6 @@
 
+![Manish Choudhary - Full Stack Developer](https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=220&section=header&text=Manish%20Choudhary&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Node.js&descSize=15&descAlignY=58&animation=fadeIn)
+
 # Hi, I'm Manish Choudhary 👋
 
 ### Full Stack Developer | React.js | Next.js | Node.js
